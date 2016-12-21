@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Github site
 
-You can use the [editor on GitHub](https://github.com/BadrulAlom/BadrulAlom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's still very much a work in progress but feel free to have a browse regardless.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contents
 
-### Markdown
+1. [Link](url) About Me
+2. [Link](url) and ![Image](src)
+3. [Link](url) and ![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
