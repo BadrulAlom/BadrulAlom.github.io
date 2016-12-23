@@ -1,3 +1,8 @@
+---
+layout: default
+---
+Hello world!
+
 ## Welcome to my Github site
 
 It's still very much a work in progress but feel free to have a browse regardless.
