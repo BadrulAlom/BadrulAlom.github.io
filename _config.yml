@@ -1,10 +1,10 @@
 title: [Badrul's GitHub Repository]
 description: ["Where computing, maths, and business hang out"]
 theme: jekyll-theme-tactile
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 markdown: kramdown
-mathjax: trie
+mathjax: true
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 kramdown:
   input: GFM
   auto_ids: true
