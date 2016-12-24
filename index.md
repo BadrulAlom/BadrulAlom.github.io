@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+
 ![Image](img/logo2.png)
 
 ** Site under construction **
 
 ## My Articles
-- [2016 - The Year of new buzzwords](blog)
+- [2016 - The Year of new buzzwords](blog/Dec2016YearOfNewBuzzwords)
 
 ## Data Science Fundamentals
 - [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/MathsStats/index.ipynb)
