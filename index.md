@@ -11,7 +11,7 @@ layout: default
 
 ## Data Science Fundamentals
 - [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/MathsStats/index.ipynb)
-- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/ml/index.ipynb)
+- [Machine Learning](ml/index)
 - [Key readings](dsf/keyreadings)
 
 ## Computing Fundamentals
