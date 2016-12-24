@@ -7,7 +7,7 @@ layout: default
 ** Site under construction **
 
 ## My Articles
-- [2016 - The Year of new buzzwords](blog/Dec2016YearOfNewBuzzwords)
+- [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 
 ## Data Science Fundamentals
 - [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/MathsStats/index.ipynb)
