@@ -10,8 +10,8 @@ layout: default
 - [2016 - The Year of new buzzwords](blog/Dec2016YearOfNewBuzzwords)
 
 ## Data Science Fundamentals
-- [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/MathsStats/index.ipynb)
-- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/ML/index.ipynb)
+- [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/MathsStats/index.ipynb)
+- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/ml/index.ipynb)
 - [Key readings](dsf/keyreadings)
 
 ## Computing Fundamentals
