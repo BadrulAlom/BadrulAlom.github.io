@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
-![Image](img/logo2.png)
 
-** Site under construction **
+## Machine Learning
 
-## Key Readings
-- [title](url)
+### Online books
+- [Online book on Neural Networks](http://neuralnetworksanddeeplearning.com/)
+- [Another good online book on Neural Networks](http://karpathy.github.io/neuralnets/)
+
+### Online tutorials
+- [Online tutorial on Tensorflow ](http://neuralnetworksanddeeplearning.com/)
 
 

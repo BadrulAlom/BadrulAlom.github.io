@@ -3,7 +3,7 @@ description: ["Where computing, maths, and business hang out"]
 theme: jekyll-theme-tactile
 highlighter: rouge
 markdown: kramdown
-mathjax: true
+future: true
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 kramdown:
   input: GFM

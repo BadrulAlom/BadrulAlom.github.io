@@ -15,6 +15,7 @@ layout: default
 - [Key readings](dsf/keyreadings)
 
 ## Computing Fundamentals
+- [Cloud computing Notebook]()
 - [Python Tips](comp/python)
 - [Linux Tips](comp/linux)
 - [Key readings](comp/keyreadings)
