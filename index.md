@@ -20,27 +20,13 @@ layout: default
 - [Linux Tips](comp/linux)
 - [Key readings](comp/keyreadings)
 
-## Applied Data Science
-- [Key readings](ads/keyreadings)
-
 ## Digital Strategy
 - [Key readings](strat/keyreadings)
 
+## Applied Data Science
+- [Kaggle](ads/kaggle)
+- [Key readings](ads/keyreadings)
+
+
 ## Miscellaneous
 - [About me](aboutme)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-```mycode
-Test
-```
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
