@@ -1,0 +1,11 @@
+- name: Logistic Regression
+  description: A regresion model in which the predicted value is categorical
+  url: https://en.wikipedia.org/wiki/Logistic_regression
+  aka:
+  related: Multinomial logistic regression
+
+- name: Multinomial logistic regression
+  description: A regresion model in which the predicted value is categorical and has more than two possible outcomes
+  url: https://en.wikipedia.org/wiki/Multinomial_logistic_regression
+  aka: polytomous LR,multiclass LR, softmax regression, multinomial logit, maximum entropy (MaxEnt) classifier, conditional maximum entropy model
+  related: logistic Regression
