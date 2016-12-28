@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: ["Badrul's GitHub Repository"]
 description: ["Where computing, maths, and business hang out"]
 theme: jekyll-theme-tactile
@@ -10,6 +9,4 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: roug
-=======
 theme: jekyll-theme-tactile
->>>>>>> 6876b49cfb59fed27dd346b0ae32e809f1b77b46
