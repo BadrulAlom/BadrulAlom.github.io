@@ -1,3 +1,11 @@
+- name: Convolutional Neural Networks
+  description: ANN architecture specifically for images in which the hidden layers are partioned into different sections known as filters.  See http://cs231n.github.io/convolutional networks/  and https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+  url: http://cs231n.github.io/convolutional-networks/	
+
+- name: Gradient descent
+  url: http://machinelearningmastery.com/gradient-descent-for-machine-learning/
+  description: A class of algorithms for narrowing down on the optimal solution in a search space where the optimal value cannot be derived mathematically
+
 - name: Logistic Regression
   description: A regresion model in which the predicted value is categorical
   url: https://en.wikipedia.org/wiki/Logistic_regression
@@ -9,3 +17,15 @@
   url: https://en.wikipedia.org/wiki/Multinomial_logistic_regression
   aka: polytomous LR,multiclass LR, softmax regression, multinomial logit, maximum entropy (MaxEnt) classifier, conditional maximum entropy model
   related: logistic Regression
+
+- name: One hot encoding
+  description: A vector is a vector which is 0 in most dimensions, and 1 in a single dimension
+  url: https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science
+
+
+- name: <template>
+  description: <description>
+  url:
+  aka:
+  related:
+

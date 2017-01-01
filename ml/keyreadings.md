@@ -6,6 +6,6 @@ layout: default
 ** Site under construction **
 
 ## Key Readings
-- [title](url)
+- [MachineLearingMastery.com - a tour of machine learning algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 
