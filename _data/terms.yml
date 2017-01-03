@@ -2,6 +2,14 @@
   description: ANN architecture specifically for images in which the hidden layers are partioned into different sections known as filters.  See http://cs231n.github.io/convolutional networks/  and https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
   url: http://cs231n.github.io/convolutional-networks/	
 
+- name: Decision boundaey
+  description: the boundary between decision regions
+  related: Decision boundary
+
+- name: Decision region
+  description: a subset of your solution space that has been labelled as one classification.
+  related: Decision boundary
+
 - name: Gradient descent
   url: http://machinelearningmastery.com/gradient-descent-for-machine-learning/
   description: A class of algorithms for narrowing down on the optimal solution in a search space where the optimal value cannot be derived mathematically

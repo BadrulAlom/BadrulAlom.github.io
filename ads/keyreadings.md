@@ -6,6 +6,6 @@ layout: default
 ** Site under construction **
 
 ## Key Readings
-- [title](url)
+- [How to 'big data' with Python](http://dataconomy.com/2016/10/big-data-python/)
 
 

@@ -21,9 +21,12 @@ b = tf.Variable(tf.zeros([1]))
 x = tf.placeholder(tf.float32, shape=[None, 784])
 y_ = tf.placeholder(tf.float32, shape=[None, 10])
 {% endhighlight %}
+* Two main ways of loading data, directly in the code (feeding), or more importantly from a files (See https://www.tensorflow.org/how_tos/reading_data/)
+* [tf.TextLineReader](https://www.tensorflow.org/api_docs/python/io_ops/readers#TextLineReader) - used for reading csv files is the way you are likely to use. Requires files having been unzipped
 
 ### Exercise 1:
 * This [link](https://www.tensorflow.org/tutorials/mnist/pros/) is an essential starting point
 
-### Exercise 2:
-Next I will apply Tensorflow to my own project, in this case ...
+### Exercise 2: Loan Default Prediction
+* Available from: https://www.kaggle.com/c/loan-default-prediction/data
+

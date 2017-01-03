@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+1. Dowload docker file
+2. Run gunzip HDP_2.5_docker.tar.gz so that it outputs a tar file
+3. Run sudo docker load < HDP_2.5_docker.tar  -- this bit can take a while
+4. docker run sandbox
+
+
