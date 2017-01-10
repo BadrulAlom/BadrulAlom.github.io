@@ -25,14 +25,17 @@
         <section id="main_content">
           <h1 id="a-concise-dive-into-tensorflow">A concise dive into Tensorflow</h1>
 
-<h3 id="general">General</h3>
+<h3 id="general">1. General</h3>
 <ul>
   <li>Tensorflow is an open-sourced machine learning library released by Google in November, 2015</li>
   <li>It can be used for any gradient-based methods</li>
   <li>The word ‘tensor’ means ‘n dimensional array’</li>
 </ul>
 
-<h3 id="programming">Programming</h3>
+<h3 id="start-with-this----maybe--maybe-not">2. Start with this: – maybe / maybe not</h3>
+<p>http://www.slideshare.net/tw_dsconf/tensorflow-tutorial</p>
+
+<h3 id="key-programming-notes">3. Key programming notes</h3>
 <ul>
   <li>import tensorflow as tf  is used to import the tensorflow library into python</li>
   <li>Variables are declared as follows:</li>
@@ -48,13 +51,21 @@
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="mi">784</span><span class="p">])</span>
 <span class="n">y_</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="mi">10</span><span class="p">])</span></code></pre></figure>
 
-<h3 id="exercise-1">Exercise 1:</h3>
+<ul>
+  <li>Two main ways of loading data, directly in the code (feeding), or more importantly from a files (See https://www.tensorflow.org/how_tos/reading_data/)</li>
+  <li><a href="https://www.tensorflow.org/api_docs/python/io_ops/readers#TextLineReader">tf.TextLineReader</a> - used for reading csv files is the way you are likely to use. Requires files having been unzipped</li>
+</ul>
+
+<h3 id="exercise-a">4. Exercise A:</h3>
 <ul>
   <li>This <a href="https://www.tensorflow.org/tutorials/mnist/pros/">link</a> is an essential starting point</li>
 </ul>
 
-<h3 id="exercise-2">Exercise 2:</h3>
-<p>Next I will apply Tensorflow to my own project, in this case …</p>
+<h3 id="exercise-b-loan-default-prediction">5. Exercise B: Loan Default Prediction</h3>
+<ul>
+  <li>Available from: https://www.kaggle.com/c/loan-default-prediction/data</li>
+</ul>
+
 
         </section>
 

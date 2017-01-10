@@ -1,14 +1,24 @@
+- name: Batch size
+  description: the number of training examples in one forward / backward pass. The higher the batch size the the more memory you will need.
+
 - name: Convolutional Neural Networks
   description: ANN architecture specifically for images in which the hidden layers are partioned into different sections known as filters.  See http://cs231n.github.io/convolutional networks/  and https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
   url: http://cs231n.github.io/convolutional-networks/	
 
-- name: Decision boundaey
+- name: Decision boundary
   description: the boundary between decision regions
   related: Decision boundary
 
 - name: Decision region
   description: a subset of your solution space that has been labelled as one classification.
   related: Decision boundary
+
+- name: Embedding layer
+  description: The representation of ANN input into a dense vector of fixed size. eg. [0.25, 0.1], [0.6, -0.2], and thereby becomes first layer of a model (in other words you end up training on embedding layer > output  not input > output 
+
+- name: Epoch
+  description: In ANN's, One forward pass and one backward pass of ALL the training examples.
+
 
 - name: Gradient descent
   url: http://machinelearningmastery.com/gradient-descent-for-machine-learning/
@@ -30,6 +40,12 @@
   description: A vector is a vector which is 0 in most dimensions, and 1 in a single dimension
   url: https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science
 
+- name: Recurrent Neural Network
+  description: Contrary to feedforward networks, recurrent neural networks (RNNs) are models with bi-directional data flow. While a feedforward network propagates data linearly from input to output, RNNs also propagate data from later processing stages to earlier stages.
+
+- name: Sparse matrix
+  description: A sparse matrix is a matrix in which most of the elements are zero, such as in ine-hot encoding. When storing and manipulating sparse matrices on a computer, it is beneficial and often necessary to use specialized algorithms and data structures that take advantage of the sparse structure of the matrix. Different data structures can be used and yield huge savings in memory when compared to the basic approach. The trade-off is that accessing the individual elements becomes more complex and additional structures are needed to be able to recover the original matrix unambiguously.
+  url: https://en.wikipedia.org/wiki/Sparse_matrix#Storing_a_sparse_matrix
 
 - name: <template>
   description: <description>

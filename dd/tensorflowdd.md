@@ -4,12 +4,15 @@ layout: default
 
 # A concise dive into Tensorflow
 
-### General
+### 1. General
 * Tensorflow is an open-sourced machine learning library released by Google in November, 2015
 * It can be used for any gradient-based methods
 * The word 'tensor' means 'n dimensional array'
 
-### Programming
+### 2. Start with this: -- maybe / maybe not
+http://www.slideshare.net/tw_dsconf/tensorflow-tutorial
+
+### 3. Key programming notes
 * import tensorflow as tf  is used to import the tensorflow library into python
 * Variables are declared as follows:
 {% highlight python %}
@@ -24,9 +27,9 @@ y_ = tf.placeholder(tf.float32, shape=[None, 10])
 * Two main ways of loading data, directly in the code (feeding), or more importantly from a files (See https://www.tensorflow.org/how_tos/reading_data/)
 * [tf.TextLineReader](https://www.tensorflow.org/api_docs/python/io_ops/readers#TextLineReader) - used for reading csv files is the way you are likely to use. Requires files having been unzipped
 
-### Exercise 1:
+### 4. Exercise A:
 * This [link](https://www.tensorflow.org/tutorials/mnist/pros/) is an essential starting point
 
-### Exercise 2: Loan Default Prediction
+### 5. Exercise B: Loan Default Prediction
 * Available from: https://www.kaggle.com/c/loan-default-prediction/data
 
