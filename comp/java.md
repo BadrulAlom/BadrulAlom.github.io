@@ -18,7 +18,7 @@ The following are just snippets of things as I job my memory of java by going ov
 ## Packages
 * A package is a namespace that organizes a set of related classes and interfaces. In other words the hierarchy under which that class falls.
 
-## Vairables
+## Variables
 * Local Variables are what'd you'd expect. Variables declared locally in methods. As such, local variables are only visible to the methods in which they are declared; they are not accessible from the rest of the class.
 * Instance Variables (Non-Static Fields) are also known as instance variables because their values are unique to each instance of a class.
 * Class Variables (Static Fields) are anay field declared with the static modifier; this tells the compiler that there is exactly one copy of this variable in existence, regardless of how many times the class has been instantiated. Additionally, the keyword final could be added to indicate that the valu of a variable will never change.

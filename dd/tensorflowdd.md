@@ -12,6 +12,8 @@ layout: default
 ### 2. Start with this: -- maybe / maybe not
 http://www.slideshare.net/tw_dsconf/tensorflow-tutorial
 
+http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
+
 ### 3. Key programming notes
 * import tensorflow as tf  is used to import the tensorflow library into python
 * Variables are declared as follows:
@@ -32,4 +34,8 @@ y_ = tf.placeholder(tf.float32, shape=[None, 10])
 
 ### 5. Exercise B: Loan Default Prediction
 * Available from: https://www.kaggle.com/c/loan-default-prediction/data
+
+### Common error messages
+* InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1500,25] rhs shape= [50,25]
+
 

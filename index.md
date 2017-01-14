@@ -2,9 +2,7 @@
 layout: default
 ---
 
-![Image](img/logo2.png)
-
-** Site under construction **
+** Site constantly under construction **
 
 ## My Articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
@@ -15,24 +13,21 @@ layout: default
 - A Concise-dive into [Tensorflow](dd/tensorflowdd)
 
 ## Data Science Fundamentals
-- [Maths & Stats](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/MathsStats/index.ipynb)
+- [Maths & Stats (Jupyter notebook)](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/MathsStats/index.ipynb)
 - [Machine Learning](ml/index)
 - [Key readings](dsf/keyreadings)
 - [Data Science Dictionary](dsf/dictionary)
 
 ## Computing Fundamentals
-- [Cloud computing](comp/cloudindex)
-- [Python Tips](comp/python)
-- [Linux Tips](comp/linux)
-- [Key readings](comp/keyreadings)
+- [Main page](comp/)
+- [Github page](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/Computing)
 
 ## Applied Data Science
+- [Bioinformatics](bioinf/bioinf)
 - [Customer Analytics](strat/customer)
-- [Healthcare Analytics](strat/healthcare)
 - [Finance Analytics](strat/finance)
 - [Kaggle](ads/kaggle)
 - [Key readings](ads/keyreadings)
 
-
 ## Miscellaneous
-- [About me](aboutme)
+- [About me](./aboutme)
