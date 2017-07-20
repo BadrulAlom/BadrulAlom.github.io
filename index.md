@@ -12,7 +12,8 @@ Welcome to my Github landing page. Here you'll find links to both my personal pr
 ## Articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 - [Data Science Methodology - avoiding the mistake of the past](https://www.linkedin.com/pulse/data-science-methodology-badrul-alom?trk=pulse_spock-articles)
-- [Priors & Posteriors - What I've learnt from doing an MSc in Data Science --in progress]()
+- [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
+- [Priors & Posteriors - What I've learnt from doing an MSc in Data Science (in progress)]()
 
 ## Data Science & ML notes
 - [Data Science Notes (Main page)](https://github.com/BadrulAlom/Data-Science-Notes)
