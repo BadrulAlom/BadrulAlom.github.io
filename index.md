@@ -9,19 +9,19 @@ Welcome to my Github landing page. Here you'll find links to my personal project
 
 MSc dissertation project in which transform music listening data into time-series data and attempt to predict play events based on past occurrences.
 
-Utilizes: SQLite3, Scikit-Learn, Tensorflow (RNN-LSTM model)
+Keywords: SQLite3, Scikit-Learn, Tensorflow (RNN-LSTM model)
 
 
 #### [Bio: Protein Function Prediction using deep learning](https://github.com/BadrulAlom/Protein-Function-CNN-Model)
 Here I try to predict the sub-cellular locaion of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. 
 
-Utilizes: Keras, Convolutional Neural Nets
+Keywords: Keras, Convolutional Neural Nets
 
 
 #### [NLP: Setence order prediction](https://github.com/BadrulAlom/Sentence-Order-Prediction)
 Group MSc project in which we try to order sentences using an LSTM model with word embeddings.
 
-Utilizes: Tensorflow, LSTM, Word embedding
+Keywords: Tensorflow, LSTM, Word embedding
 
 ## Articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
