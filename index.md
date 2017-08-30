@@ -23,7 +23,7 @@ Group MSc project in which we try to order sentences using an LSTM model with wo
 
 Keywords: Tensorflow, LSTM, Word embedding
 
-## Articles
+## My articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 - [Data Science Methodology - avoiding the mistake of the past](https://www.linkedin.com/pulse/data-science-methodology-badrul-alom?trk=pulse_spock-articles)
 - [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
