@@ -27,31 +27,20 @@ Group MSc project in which we try to order sentences using an LSTM model with wo
 Keywords: Tensorflow, LSTM, Word embedding
 
 ## Big Data (*Under construction*)
-- [My adeventures in Spark and Scala](https://github.com/BadrulAlom/Scala-and-Spark)
-- [Good link for beginners](https://www.analyticsvidhya.com/blog/2017/01/scala/)
 
 ## My articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 - [Data Science Methodology - avoiding the mistake of the past](https://www.linkedin.com/pulse/data-science-methodology-badrul-alom?trk=pulse_spock-articles)
 - [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
 
-## Data Science & ML notes
-- [Data Science Notes](https://github.com/BadrulAlom/Data-Science-Notes)
-- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/Machine%20Learning)
+## Academic Notes (not everything)
+- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Machine%20Learning/AML%20Revision%20Q%26A.ipynb)
+- [Cloud computing](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/CloudComputing.ipynb)
+- [Data Mining](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Information%20Retrieval/IRDM.ipynb)
+- [Statistical Analysis I](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Statistics/Introduction%20to%20Statistical%20Analysis.ipynb)
+- [Bayesian Inference](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Bayesian%20Inference/D%26R%20Revision.ipynb)
 - [Key readings](dsf/keyreadings)
 - [Data Science Dictionary](dsf/dictionary)
 
-
-## Applied Data Science (*Under construction*)
-- [Bioinformatics](bioinf/bioinf)
-- [Customer Analytics](strat/customer)
-- [Finance Analytics](strat/finance)
-- [Key readings](ads/keyreadings)
-
 ## Computing Fundamentals
-- [Main page](comp/)
-- [Github page](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/Computing)
-
-## Miscellaneous
-- [About me](./aboutme)
-- [Other recommended repos](./OtherRepos)
+- [Setting up a dev enironment in Linux](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/Setting%20up%20a%20Dev%20environment.ipynb)
