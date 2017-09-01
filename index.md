@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Welcome to my Github landing page. Here you'll find links to my personal projects, my notes on data science & machine learning, and articles I've written.
+Welcome to my Github landing page. Here you'll find links to my personal projects, my notes on data science & machine learning, and articles I've written. The site was started in August 2017 and is being continually updated and improved. 
 
 ## Projects & Tutorials
-#### [Consumer: Forecasting Web Traffic Time-series data)(https://github.com/BadrulAlom/Web-Traffic-Time-Series-Prediction)
-Kaggle comptition currently going on. Will update once initial deadline has passed.
+#### [Consumer: Forecasting Web Traffic Time-series data using MLib/Spark)()
+Kaggle competition. Coming soon...
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/BadrulAlom/EventPrediction)
 
