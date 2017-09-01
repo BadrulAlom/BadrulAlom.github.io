@@ -26,17 +26,21 @@ Group MSc project in which we try to order sentences using an LSTM model with wo
 
 Keywords: Tensorflow, LSTM, Word embedding
 
+## Big Data (*Under construction*)
+- [My adeventures in Spark and Scala](https://github.com/BadrulAlom/Scala-and-Spark)
+- [Good link for beginners](https://www.analyticsvidhya.com/blog/2017/01/scala/)
+
 ## My articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 - [Data Science Methodology - avoiding the mistake of the past](https://www.linkedin.com/pulse/data-science-methodology-badrul-alom?trk=pulse_spock-articles)
 - [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
-
 
 ## Data Science & ML notes
 - [Data Science Notes](https://github.com/BadrulAlom/Data-Science-Notes)
 - [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/tree/master/Machine%20Learning)
 - [Key readings](dsf/keyreadings)
 - [Data Science Dictionary](dsf/dictionary)
+
 
 ## Applied Data Science (*Under construction*)
 - [Bioinformatics](bioinf/bioinf)
