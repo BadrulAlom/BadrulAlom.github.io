@@ -16,8 +16,7 @@ MSc dissertation project in which I transform music listening data into time-ser
 
 
 #### [Bio: Protein Function Prediction using deep learning](https://github.com/BadrulAlom/Protein-Function-CNN-Model)
-Here I try to predict the sub-cellular location of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. Sadly wasn't enough time to properly tune the hyper-parameters before having to hand it in the assignment.
-
+Here I try to predict the sub-cellular location of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. 
 *Uses: Keras, Convolutional Neural Nets*
 
 
