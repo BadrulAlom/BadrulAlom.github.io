@@ -45,4 +45,4 @@ Keywords: Tensorflow, LSTM, Word embedding
 - [Data Science Dictionary](dsf/dictionary)
 
 ## Computing Fundamentals
-- [Setting up a dev enironment in Linux](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/Setting%20up%20a%20Dev%20environment.ipynb)
+- [Setting up a dev environment in Linux](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/Setting%20up%20a%20Dev%20environment.ipynb)
