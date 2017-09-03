@@ -29,7 +29,7 @@ Group MSc project in which we try to order sentences using an LSTM model with wo
 ## My tutorials
 Had to piece these together myself, surprisingly hard to find good clear step by step tutorials on Spark.
 - [Getting started with Intellij, Spark, and Scala](comp/spark/getting_started)
-- [Getting started with Spark Machine Learning (coming soon)](comp/spark/getting_started_ml)
+- [Getting started with Intellij, Spark, and Scala & Machine Learning](comp/spark/getting_started_ml)
 
 ## My articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
