@@ -5,8 +5,8 @@ layout: default
 Welcome to my Github landing page. Here you'll find links to my personal projects, my notes on data science & machine learning, and articles I've written. The site was started in August 2017 and is being continually updated and improved. 
 
 ## Projects & Tutorials
-#### [Consumer: Forecasting Web Traffic Time-series data using MLib/Spark)()
-Kaggle competition. Coming soon...
+#### [Consumer: Forecasting using MLib/Spark)()
+Currently working on. Coming soon...
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/BadrulAlom/EventPrediction)
 
@@ -27,6 +27,7 @@ Group MSc project in which we try to order sentences using an LSTM model with wo
 Keywords: Tensorflow, LSTM, Word embedding
 
 ## Big Data (*Under construction*)
+- [Getting started with Intellij, Spark, and Scala](comp/scala_tutorial)
 
 ## My articles
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
@@ -35,6 +36,7 @@ Keywords: Tensorflow, LSTM, Word embedding
 
 ## Academic Notes (not everything)
 - [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Machine%20Learning/AML%20Revision%20Q%26A.ipynb)
+- [Natural Language Processing (Maintained by UCL)](https://github.com/uclmr/stat-nlp-book/blob/python/overview.ipynb)
 - [Cloud computing](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/CloudComputing.ipynb)
 - [Data Mining](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Information%20Retrieval/IRDM.ipynb)
 - [Statistical Analysis I](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Statistics/Introduction%20to%20Statistical%20Analysis.ipynb)
