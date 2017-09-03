@@ -10,13 +10,13 @@ Coming soon...
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/BadrulAlom/EventPrediction)
 
-MSc dissertation project in which transform music listening data into time-series data and attempt to predict play events based on past occurrences.
+MSc dissertation project in which I transform music listening data into time-series data and attempt to predict play events based on past occurrences.
 
 *Uses: SQLite3, Scikit-Learn, Tensorflow (RNN-LSTM model)*
 
 
 #### [Bio: Protein Function Prediction using deep learning](https://github.com/BadrulAlom/Protein-Function-CNN-Model)
-Here I try to predict the sub-cellular locaion of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. 
+Here I try to predict the sub-cellular locaion of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. Sadly wasn't enough time to properly tune the hyper-parameters before having to hand it in.
 
 *Uses: Keras, Convolutional Neural Nets*
 
