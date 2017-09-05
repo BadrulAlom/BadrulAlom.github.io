@@ -31,6 +31,7 @@ Had to piece these together myself, surprisingly hard to find good clear step by
 - [Getting started with Intellij, Spark, and Scala & Machine Learning](comp/spark/getting_started_ml)
 
 ## My articles
+- [Applications of Machine Learning in Corporate Finance](ads/corpfin)
 - [2016 - The Year of new buzzwords](https://www.linkedin.com/pulse/year-new-buzzwords-badrul-alom?trk=pulse_spock-articles)
 - [Data Science Methodology - avoiding the mistake of the past](https://www.linkedin.com/pulse/data-science-methodology-badrul-alom?trk=pulse_spock-articles)
 - [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
