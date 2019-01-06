@@ -32,8 +32,11 @@ df= df.withColumn(transactionDateCol, df[transactionDateCol].cast(TimestampType(
 
 The following aggregates the min and max transaction dates, and sums up the amount.
 
-<code>tmp=df.groupBy('GroupByFld').agg(fn.min('adjTransactionDate').alias('minTransactionDate'),fn.max('AdjTransactionDate').alias('maxTransactionDate'),fn.sum('Amount').alias('Amount'))</code>
+<code>tmp=df.groupBy('GroupByFld').agg(fn.min('adjTransactionDate').alias('minTransactionDate'),fn.max('AdjTransactionDate').alias('maxTransactionDate'),fn.sum('Amount').alias('Amount'))
+</code>
 
 The following selects data where GroupByFld = 1 or 2
+
 <code>
 tmp=tmp.filter((tmp['GroupByFld']== 1) | (tmp['GroupByFld'] == 2))
+</code>
