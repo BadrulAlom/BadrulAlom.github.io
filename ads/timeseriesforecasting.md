@@ -8,7 +8,7 @@ Nov 2018
 
 I have been playing around with time-series forecasting problems using PySpark & Databricks and here are some useful bits of code I wanted to document:
 
-## Data Preparation
+## 1. Data Preparation
 
 Preparing the data for time series problems is always the most painful part. There isn't yet a reliable time-series library that one can use in PySpark that does what Pandas can do.
 
@@ -24,7 +24,6 @@ tmp = spark.read.format(file_type).options(header='true', quote='"', delimiter=f
 You might find there's no need to do this, PySpark is generally good at detecting the correct data types but here are some examples if you do need to do it:
 <code>
 df= df.withColumn(amountCol, df[amountCol].cast(DoubleType()))
-
 df= df.withColumn(transactionDateCol, df[transactionDateCol].cast(TimestampType()))
 </code>
 
