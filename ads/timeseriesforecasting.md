@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Time seris forecasting in PySpark
+# Time series forecasting in PySpark
 
 Nov 2018
 
@@ -37,20 +37,3 @@ The following aggregates the min and max transaction dates, and sums up the amou
 The following selects data where GroupByFld = 1 or 2
 <code>
 tmp=tmp.filter((tmp['GroupByFld']== 1) | (tmp['GroupByFld'] == 2))
-
-
-
-
-
-
-<br>
-
-Source: https://towardsdatascience.com/3-facts-about-time-series-forecasting-that-surprise-experienced-machine-learning-practitioners-69c18ee89387
-
-1. You will need to retrain your model every time you generate a new prediction
-
-This is due to the fact that patterns change over time. For example a bull market may turn into a bear market. 
-This requires a much more dynamic training/testing/deployment approach than train/test splits.
-
-
-
