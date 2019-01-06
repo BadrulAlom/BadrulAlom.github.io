@@ -11,7 +11,7 @@ Under development - using Pyspark to perform Time Series analysis
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/BadrulAlom/EventPrediction)
 
-MSc dissertation project in which I transform music listening data into time-series data and attempt to predict play events based on past occurrences.
+Academic Dissertation project in which I transform music listening data into time-series data and attempt to predict play events based on past occurrences.
 
 *Uses: SQLite3, Scikit-Learn, Tensorflow (RNN-LSTM model)*
 
@@ -21,7 +21,7 @@ Here I try to predict the sub-cellular location of proteins based on their genom
 *Uses: Keras, Convolutional Neural Nets*
 
 #### [NLP: Sentence order prediction](https://github.com/BadrulAlom/Sentence-Order-Prediction)
-Group MSc project in which we try to order sentences using an LSTM model with word embeddings.
+Group project in which we try to order sentences using an LSTM model with word embeddings.
 
 *Uses: Tensorflow, LSTM, Word embedding*
 
