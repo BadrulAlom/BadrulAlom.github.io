@@ -20,7 +20,6 @@ MSc dissertation project in which I transform music listening data into time-ser
 Here I try to predict the sub-cellular location of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. 
 *Uses: Keras, Convolutional Neural Nets*
 
-
 #### [NLP: Sentence order prediction](https://github.com/BadrulAlom/Sentence-Order-Prediction)
 Group MSc project in which we try to order sentences using an LSTM model with word embeddings.
 
