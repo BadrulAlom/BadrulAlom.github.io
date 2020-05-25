@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -20,7 +20,7 @@ layout: default
 
 3. **Bring in the dependencies**
 
-Open up Termninal in the same folder as your main project folder and run 
+Open up Terminal in the same folder as your main project folder and run 
 
 ```
 sbt update
