@@ -7,20 +7,20 @@ Welcome to my Github landing page. Here you'll find links to my personal project
 ## Projects & Tutorials
 #### Haskell and Plutus
 
-[Learning Plutus (New Github Repo started May 2021)](https://github.com/BadrulAlom/learningplutus)
+[Learning Plutus (New Github Repo started May 2021)](https://github.com/ReddSpark1/learningplutus)
 
-#### [Consumer: Modeling temporal patterns of music listeners](https://github.com/BadrulAlom/EventPrediction)
+#### [Consumer: Modeling temporal patterns of music listeners](https://github.com/Reddspark1/EventPrediction)
 
 Academic Dissertation project in which I transform music listening data into time-series data and attempt to predict play events based on past occurrences.
 
 *Uses: SQLite3, Scikit-Learn, Tensorflow (RNN-LSTM model)*
 
 
-#### [Bio: Protein Function Prediction using deep learning](https://github.com/BadrulAlom/Protein-Function-CNN-Model)
+#### [Bio: Protein Function Prediction using deep learning](https://github.com/ReddSpark1/Protein-Function-CNN-Model)
 Here I try to predict the sub-cellular location of proteins based on their genomic sequence. Tried out an innovative idea of using Convolutional Neural nets. 
 *Uses: Keras, Convolutional Neural Nets*
 
-#### [NLP: Sentence order prediction](https://github.com/BadrulAlom/Sentence-Order-Prediction)
+#### [NLP: Sentence order prediction](https://github.com/ReddSpark1/Sentence-Order-Prediction)
 Group project in which we try to order sentences using an LSTM model with word embeddings.
 
 *Uses: Tensorflow, LSTM, Word embedding*
@@ -37,17 +37,17 @@ Had to piece these together myself, surprisingly hard to find good clear step by
 - [Cloud Wars - Google Strikes Back](https://www.linkedin.com/pulse/google-strikes-warning-shot-badrul-alom)
 
 ## Academic Notes (not everything)
-- [Machine Learning](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Machine%20Learning/AML%20Study%20Notes.ipynb)
+- [Machine Learning](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Machine%20Learning/AML%20Study%20Notes.ipynb)
 - [Natural Language Processing (Maintained by UCL)](https://github.com/uclmr/stat-nlp-book/blob/python/overview.ipynb)
-- [Cloud computing](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/CloudComputing.ipynb)
-- [Data Mining](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Information%20Retrieval/IRDM.ipynb)
-- [Statistical Analysis I](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Statistics/Introduction%20to%20Statistical%20Analysis.ipynb)
-- [Bayesian Inference Notes I](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Bayesian%20Inference/BayesianInference_StudyNotesI.ipynb)
-- [Bayesian Inference Notes II](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Bayesian%20Inference/BayesianInference_StudyNotesII.ipynb)
+- [Cloud computing](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Computing/CloudComputing.ipynb)
+- [Data Mining](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Information%20Retrieval/IRDM.ipynb)
+- [Statistical Analysis I](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Statistics/Introduction%20to%20Statistical%20Analysis.ipynb)
+- [Bayesian Inference Notes I](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Bayesian%20Inference/BayesianInference_StudyNotesI.ipynb)
+- [Bayesian Inference Notes II](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Bayesian%20Inference/BayesianInference_StudyNotesII.ipynb)
 
 
 ## Misc.
 - [Key readings](dsf/keyreadings)
 - [Data Science Dictionary](dsf/dictionary)
 - [Some basiscs](comp/)
-- [Setting up a dev environment in Linux](https://github.com/BadrulAlom/Data-Science-Notes/blob/master/Computing/Setting%20up%20a%20Dev%20environment.ipynb)
+- [Setting up a dev environment in Linux](https://github.com/ReddSpark1/Data-Science-Notes/blob/master/Computing/Setting%20up%20a%20Dev%20environment.ipynb)
