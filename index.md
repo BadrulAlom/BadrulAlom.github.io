@@ -4,13 +4,14 @@ layout: default
 
 Welcome to my Github landing page. Here you'll find links to my personal projects, my notes on data science & machine learning, and articles I've written. The site was started in August 2017 and is being continually updated and improved. 
 
-## Projects & Tutorials
+## New projects & tutorials
 
-#### New Repos
-[Crypto Data Science - new report to store experiments]
+[Crypto Data Science - new repo to store experiments]
 (https://github.com/ReddSpark1/cryptods)
 
 [My Plutus repo (New Github Repo started July 2021 for Plutus Pioneer)](https://github.com/ReddSpark1/myplutus)
+
+## Old projects & tutorials
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/Reddspark1/EventPrediction)
 
