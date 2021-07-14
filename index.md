@@ -10,6 +10,9 @@ Welcome to my Github landing page. Here you'll find links to my personal project
 
 [My Plutus repo (New Github Repo started July 2021 for Plutus Pioneer)](https://github.com/ReddSpark1/myplutus)
 
+[Setting up Keras and Tensorflow in Anaconda (external link)]
+(https://oindrilasen.com/2021/02/how-to-install-and-import-keras-in-anaconda-jupyter-notebooks/)
+
 ## Old projects & tutorials
 
 #### [Consumer: Modeling temporal patterns of music listeners](https://github.com/Reddspark1/EventPrediction)
