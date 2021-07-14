@@ -6,8 +6,7 @@ Welcome to my Github landing page. Here you'll find links to my personal project
 
 ## New projects & tutorials
 
-[Crypto Data Science - new repo to store experiments]
-(https://github.com/ReddSpark1/cryptods)
+[Crypto Data Science - new repo to store experiments](https://github.com/ReddSpark1/cryptods)
 
 [My Plutus repo (New Github Repo started July 2021 for Plutus Pioneer)](https://github.com/ReddSpark1/myplutus)
 
